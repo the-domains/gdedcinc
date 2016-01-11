@@ -1,0 +1,28 @@
+name: gdedcinc
+favicon: null
+layout_spectrum: 0.9478529973421246
+typography_spectrum: 0.03399699227884412
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4838291429914534
+  lightness: 0.9561988105997443
+  saturation: 0.6316166578326374
+  rhythmicContrast: 0.622335645603016
+purpose: []
