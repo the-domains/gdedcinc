@@ -1,7 +1,7 @@
 name: gdedcinc
 favicon: null
-layout_spectrum: 0.9478529973421246
-typography_spectrum: 0.03399699227884412
+layout_spectrum: 1
+typography_spectrum: 0.75464
 cta:
   domain: null
   bucket: null
